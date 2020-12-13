@@ -3,6 +3,7 @@ public class HelloWorld{
   
 	  System.out.println("你好");
 	      System.out.println("这是本地仓库中增肌的内容");
+         System.out.println("你好你好");
   }
 
 
